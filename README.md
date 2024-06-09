@@ -1,4 +1,4 @@
-# Labirintas
+# Eduhouse
 
 _website design project_
 
@@ -8,15 +8,18 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/KsenijaCode/labirintas/
+Site published at: https://github.com/KsenijaCode/eduhouse/
 
-Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
+Design: [Eduhouse](https://dribbble.com/shots/14735947--Eduhouse-Education-Management-Dashboard-Design/attachments/6437950?mode=media)
 
 ## 🎯 Project features/goals
 
 - Github pages
-- basic HTML elements/tags
-- basic inline-CSS rules
+- icons (FontAwesome, ReactIcons)
+- CSS files
+- CSS flex
+- CSS grid
+- SVG images
 - **NO** responsive design
 
 ## 🧰 Getting Started
@@ -41,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/KsenijaCode/labirintas.git
+   git clone https://github.com/KsenijaCode/eduhouse.git
    ```
 2. Install NPM packages
    ```sh
@@ -62,11 +65,11 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/KsenijaCode/)
+Ksenija Bal.: [Github](https://github.com/KsenijaCode/)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the ISC License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
